@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+.imgMain {
+  width: 950px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#featured-property {
+  text-align: center;
+}
+.text {
+  /* text-align: center; */
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+.class {
+  background-color: red;
+  float: left;
+  text-align: center;
+  width: 25%;
+}
